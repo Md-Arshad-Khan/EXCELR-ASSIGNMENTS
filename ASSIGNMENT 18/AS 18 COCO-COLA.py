@@ -45,7 +45,7 @@ from sklearn.feature_selection import mutual_info_regression
 
 # Import Dataset
 
-df = pd.read_excel('C:/Users/Moin Dalvi/Documents/Data Science Material/Data Science Assignments/Forecasting/CocaCola_Sales_Rawdata.xlsx')
+df = pd.read_excel('C:\PRACTISE CODING EXCELR\EXCELR ASSIGNMENTS\Assignments data files\AS 18 Forecasting data files/CocaCola_Sales_Rawdata.xlsx')
 print('Shape of the data',df.shape)
 df.head(10)
 
